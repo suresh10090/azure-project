@@ -1,0 +1,15 @@
+{
+	"name": "dfazureprojectsuresh",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "548fc852-7a19-46f7-9092-64d4351707b1",
+		"tenantId": "9b8950a9-7a09-457e-9dfd-4b361d024bb2"
+	}
+}
